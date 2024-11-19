@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.json
+!logos/
+!logos/brands/
+!logos/brands/*
+!seeds/
+!seeds/*.json
